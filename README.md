@@ -5,7 +5,10 @@
 
 IT student · Cainta, Rizal · STI College Ortigas-Cainta
 
-[Portfolio](https://arjune.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arjune-abay-abay-470138421/) · [GitHub](https://github.com/juneabayabay) · [Email](mailto:hkillua222@gmail.com)
+[Portfolio](https://arjune.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/arjune-abay-abay-470138421/) ·
+[GitHub](https://github.com/juneabayabay) ·
+[Email](mailto:hkillua222@gmail.com)
 
 </div>
 
@@ -23,27 +26,16 @@ Currently deepening skills in **Python**, **Django**, **React**, and **PostgreSQ
 
 ### Tech Stack
 
-**Languages**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Python` · `Java`
-
-**Frontend**  
-`React` · `Next.js` · `Tailwind CSS`
-
-**Backend**  
-`Django` · `Node.js` · `Express`
-
-**Database & Hosting**  
-`MySQL` · `PostgreSQL` · `Supabase` · `Aiven` · `Render`
-
-**Tools**  
-`Git` · `Postman` · `Android Studio`
-
----
+| Area | Technologies |
+|------|--------------|
+| Languages | HTML, CSS, JavaScript, TypeScript, Python, Java |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Django, Node.js, Express |
+| Data & Hosting | MySQL, PostgreSQL, Supabase, Aiven, Render |
+| Tools | Git, Postman, Android Studio |
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,nodejs,express,java,mysql,postgres,supabase,git,postman,vercel" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,nodejs,express,java,mysql,postgres,supabase,git,postman,vercel" alt="Tech stack icons" />
 </div>
 
 ---
@@ -52,13 +44,13 @@ Currently deepening skills in **Python**, **Django**, **React**, and **PostgreSQ
 
 Python · Django · React · PostgreSQL · Aiven · Render
 
-**Open to** internships, junior roles, and collaboration.
+Open to internships, junior roles, and collaboration.
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=true)
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
 </div>
