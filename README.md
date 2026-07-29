@@ -17,15 +17,15 @@
 
 ## About Me
 
-I'm an IT student with an interest in building practical web applications using modern technologies. I enjoy learning through hands-on projects, improving my development workflow, and writing clean, maintainable code.
+I'm an IT student at STI College Ortigas-Cainta, focused on learning full-stack web development through school and hands-on projects. I care about writing clear code, improving my workflow, and shipping work I can stand behind—even when I'm still learning.
 
-| | |
-|:---|:---|
-| 💻 **Currently Building** | Full-stack applications with Python, Django, React, and PostgreSQL |
-| 📂 **Featured Project** | Barnabas Dental Clinic Management System |
-| 🌱 **Currently Learning** | TypeScript, Next.js, Supabase, Aiven, and Render |
-| 🛠️ **Experience With** | HTML, CSS, JavaScript, Tailwind CSS, Git, REST APIs |
-| 🤝 **Looking For** | Internship opportunities, junior developer roles, and collaboration |
+I'm open to internship and junior developer opportunities where I can contribute, learn from a team, and grow through real tasks.
+
+**Focus**
+- Building: Full-stack apps with Python, Django, React, and PostgreSQL
+- Featured project: Barnabas Dental Clinic Management System
+- Learning: TypeScript, Next.js, Supabase, and cloud deployment
+- Experience with: HTML, CSS, JavaScript, Tailwind CSS, Git, REST APIs
 
 ---
 
