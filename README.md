@@ -59,8 +59,7 @@ A clinic management project built to practice real workflows — appointments, r
 
 <div align="center">
 
-<!-- Working streak mirror (demolab is currently down / 500) -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=juneabayabay&theme=github-dark-blue&hide_border=true&card_width=540" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=github-dark-blue&hide_border=true&card_width=540&timezone=Asia/Manila" alt="GitHub Streak" />
 
 <br/><br/>
 
