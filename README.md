@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,30:1F6FEB,65:7A5200,100:D4AF37&height=220&section=header&text=Arjune%20Abay%20Abay&fontSize=44&fontColor=FFF8E7&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,30:1F6FEB,65:7A5200,100:D4AF37&height=220&section=header&text=Arjune%20Abay%20Abay&fontSize=44&fontColor=FFF8E7&animation=fadeIn&fontAlignY=32&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=D4AF37&center=true&vCenter=true&width=700&lines=Quiet+effort.+Visible+growth.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Discipline+in+learning.+Respect+in+building.;Open+to+internships+%26+junior+developer+roles" alt="typing intro" />
 
@@ -19,49 +19,46 @@
 
 ![](https://komarev.com/ghpvc/?username=juneabayabay&color=D4AF37&style=for-the-badge&label=Profile+Views&labelColor=0B0614)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b560-0d285086d093.svg" width="900" alt="divider" />
-
 </div>
 
-### About me
+---
+
+### 👋 About me
 
 Hi — I'm **Arjune**, an IT student learning full-stack development through school and personal projects.
 
 I'm still early in my journey, and I don't claim to know everything. What I do commit to is showing up consistently, writing code I can stand behind, and improving a little every day. I'm grateful for any chance to learn from others, contribute where I can, and grow with a team that values effort and honesty.
 
-> *"Real strength, for me, is not being the loudest in the room — it's being disciplined, teachable, and dependable in the work."*
+> 💭 *"Real strength, for me, is not being the loudest in the room — it's being disciplined, teachable, and dependable in the work."*
 
-**What I'm focused on right now**
-- Building full-stack apps with **Python**, **Django**, **React**, and **PostgreSQL**
-- Finishing projects I can explain clearly from idea to deployment
-- Learning **TypeScript**, **Next.js**, **Supabase**, and modern deployment workflows
-- Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
+**🎯 What I'm focused on right now**
+- 🐍 Building full-stack apps with **Python**, **Django**, **React**, and **PostgreSQL**
+- 🚀 Finishing projects I can explain clearly from idea to deployment
+- 📚 Learning **TypeScript**, **Next.js**, **Supabase**, and modern deployment workflows
+- 🛠️ Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
 
 ---
 
-### Featured project
+### ⭐ Featured project
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <h3>Barnabas Dental Clinic Management System</h3>
-      <p>A full-stack clinic management project built to practice real-world workflows — appointments, records, and daily operations.</p>
-      <a href="https://github.com/juneabayabay">
-        <img src="https://img.shields.io/badge/View_Project-GitHub-0B0614?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22" alt="View Project" />
-      </a>
-      <br/><br/>
-      <sub>More work on my <a href="https://arjune.vercel.app">portfolio</a> and <a href="https://github.com/juneabayabay">GitHub profile</a>.</sub>
-    </td>
-  </tr>
-</table>
+**Barnabas Dental Clinic Management System**  
+A full-stack clinic management project built to practice real-world workflows — appointments, records, and daily operations.
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-0B0614?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22)](https://github.com/juneabayabay)
+
+<br/><br/>
+
+<sub>More work on my <a href="https://arjune.vercel.app">portfolio</a> · <a href="https://github.com/juneabayabay">GitHub profile</a></sub>
 
 </div>
 
 ---
 
-### Tech I work with
+### 🧰 Tech I work with
 
 <div align="center">
 
@@ -76,38 +73,27 @@ I'm still early in my journey, and I don't claim to know everything. What I do c
 
 ---
 
-### GitHub highlights
+### 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=juneabayabay&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=github-dark-blue&hide_border=true&card_width=540&timezone=Asia%2FManila" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=580&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneabayabay&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=86400" height="170" alt="Top Languages" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=juneabayabay&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=14&langs_count=6&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37" height="180" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=14&count_private=true&include_all_commits=true&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=GitHub%20Stats" height="180" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FFD700&point=ffffff&area=true&area_color=1F6FEB&hide_border=false&border_color=D4AF37&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-### Let's connect
+### 🤝 Let's connect
 
 If you're hiring **interns** or **junior developers** — or you'd like to talk about projects, learning, and growth — I'd be glad to hear from you.
 
