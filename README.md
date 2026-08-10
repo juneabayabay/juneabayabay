@@ -77,25 +77,41 @@ A full-stack clinic system built to practice real workflows — appointments, re
 
 <div align="center">
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="36" alt="fire left" />
-&nbsp;&nbsp;
-<strong>Consistency over noise</strong>
-&nbsp;&nbsp;
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="36" alt="fire right" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=12&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="42" alt="fire" />
 &nbsp;
-<img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="42" alt="fire" />
+&nbsp;
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="42" alt="fire" />
+
+<br/>
+
+### 👑 Consistency. Discipline. Growth. 👑
+
+<sub>Quiet work. Strong streak. Honest progress.</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=580&timezone=Asia%2FManila&background=0B0614&stroke=FFD700&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=radical&hide_border=false&border_radius=12&langs_count=6&custom_title=%F0%9F%94%A5%20Top%20Languages" height="175" alt="Top Languages" />
+&nbsp;
+<img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=radical&hide_border=false&border_radius=12&count_private=true&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="175" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="32" alt="fire" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -107,11 +123,11 @@ If you're hiring interns or junior developers — or just want to talk about pro
 
 <div align="center">
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="30" alt="fire" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,45:1F6FEB,100:0B0614&height=110&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=26&fontColor=FFF8E7&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F1C,40:D4AF37,70:1F6FEB,100:0B0614&height=110&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=26&fontColor=FFF8E7&animation=fadeIn" alt="footer" />
 
 <br/>
 
