@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:D4AF37&height=200&section=header&text=Arjune%20Abay%20Abay&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:D4AF37&height=200&section=header&text=Arjune%20Abay%20Abay&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Curious+mind.+Quiet+effort.+Honest+work.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Committed+to+learning.+Open+to+internships." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=680&lines=Curious+mind.+Quiet+effort.+Honest+work.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Committed+to+learning.+Open+to+internships." alt="typing" />
 
 <br/>
 
@@ -19,43 +19,50 @@
 
 ---
 
-### About me
+## About
 
-Hi — I'm **Arjune**, an IT student learning full-stack development.
+Hi — I'm **Arjune**, an IT student learning full-stack development through school and personal projects.
 
 I'm curious, quiet, and honest about where I'm still growing. I prefer listening and building over talking, and I'm committed to improving through steady, consistent work.
 
-> *"Silence is not weakness. It is space for focus, honesty, and steady growth."*
+> *"Real strength is quiet — disciplined, teachable, and dependable."*
 
+**Focus right now**
 - Building with **Python**, **Django**, **React**, and **PostgreSQL**
 - Learning **TypeScript**, **Next.js**, **Supabase**, and deployment
 - Improving **Git**, **REST APIs**, and **Tailwind CSS**
 
 ---
 
-### Featured project
+## Featured Project
 
-**[Barnabas Dental Clinic Management System](https://github.com/juneabayabay)** — A full-stack clinic project for appointments, records, and daily operations.
+**[Barnabas Dental Clinic Management System](https://github.com/juneabayabay)**  
+A full-stack clinic system for appointments, records, and day-to-day operations.
 
 More on my [portfolio](https://arjune.vercel.app) · [GitHub](https://github.com/juneabayabay)
 
 ---
 
-### Tech stack
+## Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,nodejs,express,java,mysql,postgres,supabase,git,postman,vercel" alt="skills" />
 
+<br/><br/>
+
+**Comfortable with** · `Python` · `Django` · `React` · `PostgreSQL`  
+**Currently learning** · `TypeScript` · `Next.js` · `Supabase`
+
 </div>
 
 ---
 
-### 👑 GitHub Activity
+## 👑 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=github-dark-blue&hide_border=true&card_width=540&timezone=Asia%2FManila" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=12&card_width=540&timezone=Asia%2FManila&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -65,13 +72,13 @@ More on my [portfolio](https://arjune.vercel.app) · [GitHub](https://github.com
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0d1117&color=D4AF37&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-### Let's connect
+## Connect
 
 If you're hiring interns or junior developers, I'd be glad to hear from you.
 
