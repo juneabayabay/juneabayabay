@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:D4AF37&height=200&section=header&text=Arjune%20Abay%20Abay&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,35:1F6FEB,70:7A5200,100:D4AF37&height=220&section=header&text=Arjune%20Abay%20Abay&fontSize=42&fontColor=FFF8E7&animation=fadeIn&fontAlignY=33&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Cainta%2C%20Rizal&descSize=14&descAlignY=58" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=680&lines=Curious+mind.+Quiet+effort.+Honest+work.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Committed+to+learning.+Open+to+internships." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=D4AF37&center=true&vCenter=true&width=700&lines=I+build+quietly.+I+learn+honestly.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Still+growing+.+Still+committed.;Open+to+internships+%26+junior+roles" alt="typing" />
 
 <br/>
 
@@ -10,10 +10,10 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjune.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://arjune.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arjune-abay-abay-470138421/)
-[![GitHub](https://img.shields.io/badge/GitHub-juneabayabay-181717?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/juneabayabay)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:hkillua222@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjune.vercel.app-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=161B22)](https://arjune.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=161B22)](https://www.linkedin.com/in/arjune-abay-abay-470138421/)
+[![GitHub](https://img.shields.io/badge/GitHub-juneabayabay-181717?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22)](https://github.com/juneabayabay)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=161B22)](mailto:hkillua222@gmail.com)
 
 </div>
 
@@ -23,14 +23,17 @@
 
 Hi — I'm **Arjune**, an IT student learning full-stack development through school and personal projects.
 
-I'm curious, quiet, and honest about where I'm still growing. I prefer listening and building over talking, and I'm committed to improving through steady, consistent work.
+I don't pretend to know everything. What I can say honestly is this: I care about writing code I understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first, then I build. I'm curious about how systems work, honest about my gaps, and willing to put in the work even when progress feels slow.
 
-> *"Real strength is quiet — disciplined, teachable, and dependable."*
+I'm still early in my journey, and I'm grateful for every chance to learn, contribute, and grow with a team.
 
-**Focus right now**
+> *"I don't need to be the loudest person in the room. I just want my work to be honest, clear, and dependable."*
+
+**What I'm focused on**
 - Building with **Python**, **Django**, **React**, and **PostgreSQL**
-- Learning **TypeScript**, **Next.js**, **Supabase**, and deployment
-- Improving **Git**, **REST APIs**, and **Tailwind CSS**
+- Shipping projects I can explain from idea to deployment
+- Learning **TypeScript**, **Next.js**, **Supabase**, and deployment basics
+- Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
 
 ---
 
@@ -40,16 +43,16 @@ I'm curious, quiet, and honest about where I'm still growing. I prefer listening
 
 ### Barnabas Dental Clinic Management System
 
-A full-stack clinic system for appointments, records, and day-to-day operations.
+A full-stack clinic system built to practice real workflows — appointments, records, and day-to-day operations.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/juneabayabay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://arjune.vercel.app)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-0B0614?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22)](https://github.com/juneabayabay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=161B22)](https://arjune.vercel.app)
 
 <br/>
 
-<sub>Built with purpose · More on my <a href="https://arjune.vercel.app">portfolio</a> · <a href="https://github.com/juneabayabay">GitHub</a></sub>
+<sub>More work on my <a href="https://arjune.vercel.app">portfolio</a> · <a href="https://github.com/juneabayabay">GitHub</a></sub>
 
 </div>
 
@@ -74,11 +77,15 @@ A full-stack clinic system for appointments, records, and day-to-day operations.
 
 <div align="center">
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="40" alt="fire" />
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="36" alt="fire left" />
+&nbsp;&nbsp;
+<strong>Consistency over noise</strong>
+&nbsp;&nbsp;
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="36" alt="fire right" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=12&card_width=540&timezone=Asia%2FManila&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=12&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -88,7 +95,7 @@ A full-stack clinic system for appointments, records, and day-to-day operations.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0d1117&color=D4AF37&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -96,14 +103,18 @@ A full-stack clinic system for appointments, records, and day-to-day operations.
 
 ## Connect
 
-If you're hiring interns or junior developers, I'd be glad to hear from you.
+If you're hiring interns or junior developers — or just want to talk about projects and learning — I'd be glad to hear from you.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1F6FEB,100:0D1117&height=100&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="footer" />
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,45:1F6FEB,100:0B0614&height=110&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=26&fontColor=FFF8E7&animation=fadeIn" alt="footer" />
 
 <br/>
 
-*Curious in mind. Quiet in presence. Honest in effort. Committed in action.*
+*I stay humble in learning, honest in effort, and committed to the work I deliver.*
 
 </div>
