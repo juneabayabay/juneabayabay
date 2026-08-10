@@ -36,10 +36,22 @@ I'm curious, quiet, and honest about where I'm still growing. I prefer listening
 
 ## Featured Project
 
-**[Barnabas Dental Clinic Management System](https://github.com/juneabayabay)**  
+<div align="center">
+
+### Barnabas Dental Clinic Management System
+
 A full-stack clinic system for appointments, records, and day-to-day operations.
 
-More on my [portfolio](https://arjune.vercel.app) · [GitHub](https://github.com/juneabayabay)
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/juneabayabay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://arjune.vercel.app)
+
+<br/>
+
+<sub>Built with purpose · More on my <a href="https://arjune.vercel.app">portfolio</a> · <a href="https://github.com/juneabayabay">GitHub</a></sub>
+
+</div>
 
 ---
 
@@ -61,6 +73,10 @@ More on my [portfolio](https://arjune.vercel.app) · [GitHub](https://github.com
 ## 👑 GitHub Activity
 
 <div align="center">
+
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="40" alt="fire" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=12&card_width=540&timezone=Asia%2FManila&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=FF9F1C&currStreakNum=FFD700&sideNums=FFD700" alt="GitHub Streak" />
 
