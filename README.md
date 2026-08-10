@@ -22,25 +22,37 @@
 ## About
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="line" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 </div>
 
-Hi — I'm **Arjune**, an IT student learning full-stack development through school and personal projects.
+<br/>
 
-I don't pretend to know everything. What I can say honestly is this: I care about writing code I understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first, then I build. I'm curious about how systems work, honest about my gaps, and willing to put in the work even when progress feels slow.
+Hi — I'm **Arjune** 👋, an IT student learning full-stack development through school and personal projects.
 
-I'm still early in my journey, and I'm grateful for every chance to learn, contribute, and grow with a team.
+I don't pretend to know everything. What I can say honestly is this: I care about writing code I understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first, then I build 🛠️. I'm curious about how systems work 💡, honest about my gaps, and willing to put in the work even when progress feels slow.
 
-> *"I don't need to be the loudest person in the room. I just want my work to be honest, clear, and dependable."*
+I'm still early in my journey 🌱, and I'm grateful for every chance to learn, contribute, and grow with a team.
 
-**What I'm focused on**
-- Building with **Python**, **Django**, **React**, and **PostgreSQL**
-- Shipping projects I can explain from idea to deployment
-- Learning **TypeScript**, **Next.js**, **Supabase**, and deployment basics
-- Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
+> 💭 *"I don't need to be the loudest person in the room. I just want my work to be honest, clear, and dependable."*
+
+**🎯 What I'm focused on**
+- 🐍 Building with **Python**, **Django**, **React**, and **PostgreSQL**
+- 🚀 Shipping projects I can explain from idea to deployment
+- 📚 Learning **TypeScript**, **Next.js**, **Supabase**, and deployment basics
+- 🛠️ Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
+
+<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="line" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 </div>
 
 ---
