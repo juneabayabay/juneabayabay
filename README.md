@@ -101,25 +101,23 @@ A full-stack clinic system built to practice real workflows — appointments, re
 
 <div align="center">
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="34" alt="fire" />
+<p>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 &nbsp;
 <strong>👑 Consistency · Discipline · Growth 👑</strong>
 &nbsp;
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="34" alt="fire" />
-
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 <br/>
 <sub>Quiet work · Strong streak · Honest progress</sub>
-<br/>
+</p>
 
 <img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak" alt="GitHub Streak" />
 
-<br/>
-
+<p>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
 &nbsp;
 <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
-
-<br/>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
