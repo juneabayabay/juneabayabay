@@ -21,6 +21,10 @@
 
 ## About
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
+</div>
+
 Hi — I'm **Arjune**, an IT student learning full-stack development through school and personal projects.
 
 I don't pretend to know everything. What I can say honestly is this: I care about writing code I understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first, then I build. I'm curious about how systems work, honest about my gaps, and willing to put in the work even when progress feels slow.
@@ -35,11 +39,19 @@ I'm still early in my journey, and I'm grateful for every chance to learn, contr
 - Learning **TypeScript**, **Next.js**, **Supabase**, and deployment basics
 - Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
+</div>
+
 ---
 
 ## Featured Project
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%91%91_Featured-Barnabas_Dental_Clinic-0B0614?style=for-the-badge&labelColor=D4AF37&color=0B0614" alt="featured badge" />
+
+<br/><br/>
 
 ### Barnabas Dental Clinic Management System
 
@@ -47,8 +59,8 @@ A full-stack clinic system built to practice real workflows — appointments, re
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-0B0614?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22)](https://github.com/juneabayabay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=161B22)](https://arjune.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/juneabayabay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://arjune.vercel.app)
 
 <br/>
 
