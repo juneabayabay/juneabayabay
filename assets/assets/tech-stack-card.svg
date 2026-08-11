@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0614"/>
+      <stop offset="50%" stop-color="#12101A"/>
+      <stop offset="100%" stop-color="#1A1208"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#FF9F1C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="22" fill="url(#bg)"/>
+  <rect x="2" y="2" width="996" height="216" rx="20" fill="none" stroke="url(#border)" stroke-width="2.5"/>
+
+  <text x="500" y="55" text-anchor="middle" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Tech Stack</text>
+
+  <text x="500" y="105" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Comfortable with</text>
+  <text x="500" y="132" text-anchor="middle" fill="#FFF8E7" font-family="Segoe UI, Arial, sans-serif" font-size="16">Python  ·  Django  ·  React  ·  PostgreSQL</text>
+
+  <text x="500" y="175" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Currently learning</text>
+  <text x="500" y="200" text-anchor="middle" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="16">TypeScript  ·  Next.js  ·  Supabase</text>
+</svg>
