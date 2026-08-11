@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/about-card.svg" width="100%" alt="About Arjune" />
+  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/about-card.svg" width="100%" alt="About Arjune" />
 </div>
 
 <br/>
@@ -44,6 +44,8 @@
   &nbsp;&nbsp;
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 </div>
+
+---
 
 ## Featured Project
 
@@ -77,7 +79,7 @@
 
 </div>
 
-
+---
 
 ## 👑 GitHub Activity
 
@@ -98,7 +100,7 @@
 <br/><br/>
 
 ### Current Streak
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -107,10 +109,10 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
