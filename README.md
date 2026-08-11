@@ -8,6 +8,8 @@
     <a href="https://github.com/juneabayabay"><img src="https://img.shields.io/badge/GitHub-juneabayabay-181717?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22" alt="GitHub" /></a>
     <a href="mailto:hkillua222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=161B22" alt="Email" /></a>
   </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="520" alt="divider" />
 </div>
 
 ---
@@ -54,6 +56,10 @@
   <sub>Quiet work · Strong streak · Honest progress</sub>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=D4AF37&center=true&vCenter=true&width=560&lines=Shipping+quietly.+Improving+daily.;Full-stack+focus+%C2%B7+Honest+progress;Building+skills+worth+trusting" alt="activity typing" />
+
+<br/>
+
 <img src="https://cdn.jsdelivr.net/gh/juneabayabay/juneabayabay@main/assets/github-streak.svg" width="560" alt="GitHub Streak" />
 
 <br/>
@@ -74,6 +80,10 @@
 If you're hiring interns or junior developers — or just want to talk about projects and learning — I'd be glad to hear from you.
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0614,50:1F6FEB,100:D4AF37&height=70&section=header&text=Open%20to%20internships%20%26%20junior%20roles&fontSize=18&fontColor=FFF8E7&animation=twinkling&fontAlignY=40" width="560" alt="status" />
+
+  <br/><br/>
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F1C,40:D4AF37,70:1F6FEB,100:0B0614&height=110&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=26&fontColor=FFF8E7&animation=fadeIn" alt="footer" />
   <p><em>I stay humble in learning, honest in effort, and committed to the work I deliver.</em></p>
 </div>
