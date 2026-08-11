@@ -31,19 +31,9 @@
 
 <br/>
 
-Hi — I'm **Arjune** 👋, an IT student learning full-stack development through school and personal projects.
-
-I don't pretend to know everything. What I can say honestly is this: I care about writing code I understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first, then I build 🛠️. I'm curious about how systems work 💡, honest about my gaps, and willing to put in the work even when progress feels slow.
-
-I'm still early in my journey 🌱, and I'm grateful for every chance to learn, contribute, and grow with a team.
-
-> 💭 *"I don't need to be the loudest person in the room. I just want my work to be honest, clear, and dependable."*
-
-**🎯 What I'm focused on**
-- 🐍 Building with **Python**, **Django**, **React**, and **PostgreSQL**
-- 🚀 Shipping projects I can explain from idea to deployment
-- 📚 Learning **TypeScript**, **Next.js**, **Supabase**, and deployment basics
-- 🛠️ Getting better at **Git**, **REST APIs**, and clean UI with **Tailwind CSS**
+<div align="center">
+  <img src="./assets/about-card.svg" width="100%" alt="About Arjune" />
+</div>
 
 <br/>
 
@@ -101,25 +91,50 @@ A full-stack clinic system built to practice real workflows — appointments, re
 
 <div align="center">
 
-<p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
-&nbsp;
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="line" />
+&nbsp;&nbsp;
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+
+<br/><br/>
+
 <strong>👑 Consistency · Discipline · Growth 👑</strong>
-&nbsp;
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 <br/>
 <sub>Quiet work · Strong streak · Honest progress</sub>
-</p>
 
+<br/><br/>
+
+### Current Streak
 <img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak" alt="GitHub Streak" />
 
-<p>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
-</p>
+<br/><br/>
 
+### Stats Overview
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+
+<br/>
+
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="line" />
+&nbsp;&nbsp;
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 
 </div>
 
