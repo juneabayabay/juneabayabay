@@ -45,21 +45,13 @@
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fire.gif" width="28" alt="fire" />
 </div>
 
----
-
 ## Featured Project
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%91%91_Featured-Barnabas_Dental_Clinic-0B0614?style=for-the-badge&labelColor=D4AF37&color=0B0614" alt="featured badge" />
+<img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/featured-card.svg" width="100%" alt="Featured Project" />
 
 <br/><br/>
-
-### Barnabas Dental Clinic Management System
-
-A full-stack clinic system built to practice real workflows — appointments, records, and day-to-day operations.
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/juneabayabay)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://arjune.vercel.app)
@@ -80,12 +72,11 @@ A full-stack clinic system built to practice real workflows — appointments, re
 
 <br/><br/>
 
-**Comfortable with** · `Python` · `Django` · `React` · `PostgreSQL`  
-**Currently learning** · `TypeScript` · `Next.js` · `Supabase`
+<img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/tech-stack-card.svg" width="100%" alt="Tech Stack" />
 
 </div>
 
----
+
 
 ## 👑 GitHub Activity
 
