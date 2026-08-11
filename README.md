@@ -15,7 +15,7 @@
 ## About
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/about-card.svg" width="100%" alt="About Arjune" />
+  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/about-card.svg" width="800" alt="About Arjune" />
 </div>
 
 ---
@@ -23,7 +23,7 @@
 ## Featured Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/featured-card.svg" width="100%" alt="Featured Project" />
+  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/featured-card.svg" width="800" alt="Featured Project" />
   <p>
     <a href="https://github.com/juneabayabay"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
     <a href="https://arjune.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio" /></a>
@@ -54,16 +54,26 @@
   <sub>Quiet work · Strong streak · Honest progress</sub>
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/juneabayabay/juneabayabay@main/assets/github-streak.svg" width="560" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
-<img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="710" alt="Contribution Graph" />
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/juneabayabay/juneabayabay@main/assets/github-streak.svg" width="800" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" width="390" alt="Top Languages" />
+    </td>
+    <td align="center" width="400">
+      <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" width="390" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="800" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
