@@ -72,7 +72,8 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/tech-stack-card.svg" width="100%" alt="Tech Stack" />
+**Comfortable with** · `Python` · `Django` · `React` · `PostgreSQL`  
+**Currently learning** · `TypeScript` · `Next.js` · `Supabase`
 
 </div>
 
