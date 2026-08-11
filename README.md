@@ -100,7 +100,7 @@
 <br/><br/>
 
 ### Current Streak
-<img src="https://streak-stats.demolab.com/?user=juneabayabay&theme=dark&hide_border=false&border_radius=14&card_width=560&timezone=Asia%2FManila&background=0B0614&stroke=D4AF37&ring=FF9F1C&fire=FF4500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=Current%20Streak&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/github-streak.svg" width="560" alt="GitHub Streak" />
 
 <br/><br/>
 
