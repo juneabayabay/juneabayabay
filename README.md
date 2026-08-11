@@ -43,8 +43,6 @@
   </p>
 </div>
 
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -54,26 +52,18 @@
   <sub>Quiet work · Strong streak · Honest progress</sub>
 </p>
 
-<!-- Streak: same width as stats row, no nested outer frame -->
-<table width="710">
-  <tr>
-    <td align="center" width="236">
-      <strong>329</strong><br/>
-      <sub>Total Contributions</sub><br/>
-      <sup>Jun 10, 2025 – Present</sup>
-    </td>
-    <td align="center" width="236">
-      <strong>30</strong><br/>
-      <sub>Current Streak</sub><br/>
-      <sup>Jul 13 – Aug 11</sup>
-    </td>
-    <td align="center" width="236">
-      <strong>30</strong><br/>
-      <sub>Longest Streak</sub><br/>
-      <sup>Jul 13 – Aug 11</sup>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/juneabayabay/juneabayabay@main/assets/github-streak.svg" width="560" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Top%20Languages" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="165" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juneabayabay&bg_color=0B0614&color=D4AF37&line=FF9F1C&point=FFD700&area=true&area_color=5C3D00&hide_border=false&border_color=D4AF37&custom_title=%F0%9F%94%A5%20Contribution%20Graph" width="710" alt="Contribution Graph" />
+
+</div>
 
 <p></p>
 
