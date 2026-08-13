@@ -53,7 +53,7 @@
 
   <br/>
 
-  <img src="./assets/github-streak.svg" width="680" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/github-streak.svg?v=20260813" width="680" alt="Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20Top%20Languages" height="158" alt="Top Languages" />
   <img src="https://github-readme-stats.shion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="158" alt="GitHub Stats" />
