@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=D4AF37&center=true&vCenter=true&width=640&lines=I+build+quietly.+I+learn+honestly.;Python+%7C+Django+%7C+React+%7C+PostgreSQL;Quiet+power.+Steady+growth.;Open+to+internships+%26+junior+roles" alt="typing" />
 
-  <p>STI College Ortigas-Cainta · Open to internships and junior roles</p>
+  <p>STI College Ortigas-Cainta · Open to the internships and junior roles</p>
 
   <a href="https://arjune.vercel.app"><img src="https://img.shields.io/badge/Portfolio-arjune.vercel.app-0B0614?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=161B22" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/arjune-abay-abay-470138421/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=161B22" alt="LinkedIn" /></a>
