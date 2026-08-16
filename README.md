@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,nodejs,express,java,mysql,postgres,supabase,git,postman,vercel" alt="skills" />
   <p>
     Comfortable with · <code>Python</code> · <code>Django</code> · <code>React</code> · <code>PostgreSQL</code><br/>
-    Learning · <code>TypeScript</code> · <code>Next.js</code> · <code>Supabase</code> · <code>Astro</code>
+    Learning · <code>TypeScript</code> · <code>Next.js</code> · <code>Supabase</code>
   </p>
 </div>
 
