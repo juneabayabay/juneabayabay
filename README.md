@@ -65,6 +65,6 @@
 
 ### Connect
 <div align="center">
-  <p>Open to internships, junior roles, and project conversations.</p>
+  <p>Open to internships, junior roles, and other projects </p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F1C,40:D4AF37,70:1F6FEB,100:0B0614&height=100&section=footer&text=Quiet%20Steps.%20Steady%20Growth.&fontSize=24&fontColor=FFF8E7&animation=fadeIn" alt="footer" />
 </div>
