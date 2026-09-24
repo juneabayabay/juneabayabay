@@ -69,11 +69,12 @@ I'm Arjune, an IT student in Cainta, Rizal. I expect to graduate in 2027.
 
 ---
 
+<div align="center">
+
 ### GitHub activity
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneabayabay&layout=compact&langs_count=8&hide_border=false&border_radius=10&bg_color=0B0614&title_color=D4AF37&text_color=E6EDF3&border_color=E6D3A3&custom_title=Most%20Used%20Languages" alt="Most used languages" />
-  <img height="195" src="https://streak-stats.demolab.com?user=juneabayabay&hide_border=false&border_radius=10&background=0B0614&stroke=E6D3A3&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=C9D1D9" alt="GitHub streak" />
+<img height="195" src="https://streak-stats.demolab.com?user=juneabayabay&hide_border=false&border_radius=10&background=0B0614&stroke=E6D3A3&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=C9D1D9" alt="GitHub streak" />
+
 </div>
 
 ---
