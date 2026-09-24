@@ -72,12 +72,8 @@ I'm Arjune, an IT student in Cainta, Rizal. I expect to graduate in 2027.
 ### GitHub activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1500&color=D4AF37&center=true&vCenter=true&width=520&lines=%F0%9F%91%91+Consistency.+Discipline.+Growth." alt="Consistency. Discipline. Growth." />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=juneabayabay&theme=transparent&hide_border=false&border_radius=12&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=C9D1D9&dates=8B949E&background=0B0614" alt="GitHub streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shiion.dev/api/top-langs/?username=juneabayabay&layout=compact&theme=transparent&hide_border=false&border_radius=12&langs_count=6&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20Top%20Languages" height="158" alt="Top languages" />
-  <img src="https://github-readme-stats.shiion.dev/api?username=juneabayabay&show_icons=true&theme=transparent&hide_border=false&border_radius=12&count_private=true&bg_color=0B0614,12101A,1A1208&title_color=D4AF37&text_color=C9D1D9&icon_color=FFD700&border_color=D4AF37&custom_title=%F0%9F%91%91%20GitHub%20Stats" height="158" alt="GitHub stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneabayabay&layout=compact&langs_count=8&hide_border=false&border_radius=10&bg_color=0B0614&title_color=D4AF37&text_color=E6EDF3&border_color=E6D3A3&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+  <img height="195" src="https://streak-stats.demolab.com?user=juneabayabay&hide_border=false&border_radius=10&background=0B0614&stroke=E6D3A3&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=C9D1D9" alt="GitHub streak" />
 </div>
 
 ---
