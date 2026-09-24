@@ -58,7 +58,7 @@
   <br/><br/>
 
   <img
-    src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/github-streak.svg?v=202609231922"
+    src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/github-streak.svg?v=202609240754"
     width="680"
     alt="GitHub Streak"
   />
