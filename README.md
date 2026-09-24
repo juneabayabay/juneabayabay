@@ -1,19 +1,18 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,35:1F6FEB,70:7A5200,100:D4AF37&height=200&section=header&text=Arjune%20Abay%20Abay&fontSize=40&fontColor=FFF8E7&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%C2%B7%20Aspiring%20Software%20Engineer%20%C2%B7%20Cainta%2C%20Rizal&descSize=13&descAlignY=58" alt="Arjune Abay Abay" />
+  <img width="720" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,35:1F6FEB,70:7A5200,100:D4AF37&height=120&section=header&text=Arjune%20Abay%20Abay&fontSize=26&fontColor=FFF8E7&animation=fadeIn&fontAlignY=32&desc=IT%20Student%20%C2%B7%20Aspiring%20Software%20Engineer%20%C2%B7%20Cainta%2C%20Rizal&descSize=11&descAlignY=62" alt="Arjune Abay Abay" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=D4AF37&center=true&vCenter=true&width=760&lines=I+listen+first%2C+then+I+build.;School%2C+client%2C+and+personal+projects;React+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+PostgreSQL;Open+to+software+engineering+internships" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&height=28&pause=1400&color=D4AF37&center=true&vCenter=true&width=420&lines=React+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+PostgreSQL" alt="React, Next.js, Django, PostgreSQL" />
 
   <p>BS Information Technology · STI College Ortigas-Cainta · Class of 2027</p>
 
-  <a href="https://arjune.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/arjune-abay-abay-470138421/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/juneabayabay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
-  <a href="mailto:hkillua222@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://arjune.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=111111" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arjune-abay-abay-470138421/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/juneabayabay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=D4AF37" alt="GitHub" /></a>
+  <a href="mailto:hkillua222@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open_to_internships-D4AF37?style=flat-square" alt="Open to internships" />
 
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Open_to_internships-D4AF37?style=for-the-badge&labelColor=161B22" alt="Open to internships" />
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="420" alt="" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="240" alt="" />
 </div>
 
 ---
