@@ -1,28 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img" aria-label="About Arjune">
-  <defs>
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1F6FEB"/>
-      <stop offset="100%" stop-color="#D4AF37"/>
-    </linearGradient>
-    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B0614"/>
-      <stop offset="100%" stop-color="#1A1208"/>
-    </linearGradient>
-  </defs>
-  <rect x="8" y="8" width="964" height="624" rx="24" fill="url(#fill)" stroke="url(#border)" stroke-width="3"/>
-  <text x="490" y="58" text-anchor="middle" fill="#D4AF37" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">About</text>
-  <text x="64" y="112" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Hi — I'm Arjune, a BS Information Technology student at STI College Ortigas-Cainta,</text>
-  <text x="64" y="138" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">class of 2027. I learn full-stack development through school, client work, and personal projects.</text>
-  <text x="64" y="180" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">I care about writing code I understand, asking better questions, and finishing what I start.</text>
-  <text x="64" y="206" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">I'm quiet by nature — I listen first, then I build. I'm honest about what I'm still learning,</text>
-  <text x="64" y="232" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">and I'm looking for an internship where I can contribute to real features with a team.</text>
-  <rect x="64" y="262" width="852" height="78" rx="14" fill="#0B0614" stroke="#D4AF37" stroke-opacity="0.55"/>
-  <text x="88" y="294" fill="#E6EDF3" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">"I don't need to be the loudest person in the room. I just want my work to be</text>
-  <text x="88" y="318" fill="#E6EDF3" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">honest, clear, and dependable."</text>
-  <text x="64" y="388" fill="#D4AF37" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">What I'm focused on</text>
-  <text x="64" y="424" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Comfortable with HTML, CSS, JavaScript, React, Tailwind CSS, and Git</text>
-  <text x="64" y="452" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Shipping clinic, church, and personal apps I can explain from idea to deployment</text>
-  <text x="64" y="480" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Learning TypeScript, Next.js, Astro, Python, Django, PostgreSQL, and Supabase</text>
-  <text x="64" y="508" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Getting stronger at REST APIs, role-based access, and deployment on Vercel and Render</text>
-  <text x="490" y="580" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Quiet steps. Steady growth.</text>
-</svg>
+### 💡 About Me
+
+- 👋 Hi, I'm **Arjune**, an IT student from **Cainta, Rizal**. I'm taking **BS Information Technology** at **STI College Ortigas-Cainta** and expect to graduate in **2027**.
+- 💻 The tools I use most are **JavaScript**, **React**, and **Tailwind CSS**. I'm also learning **TypeScript**, **Next.js**, **Python**, and **Django**.
+- 🛠️ School and client work so far: a clinic system for **Barnabas Dental**, a public site and staff portal for **Cainta Baptist Church**, and a personal **Bible** reading app.
+- 📌 I'm open to a **software engineering** or **web development internship**.
+- 🚀 Projects and contact details are on my [portfolio](https://arjune.vercel.app) and [LinkedIn](https://www.linkedin.com/in/arjune-abay-abay-470138421/).
