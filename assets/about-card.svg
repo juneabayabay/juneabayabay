@@ -1,41 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img" aria-label="About Arjune">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#D4AF37"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B0614"/>
-      <stop offset="50%" stop-color="#12101A"/>
       <stop offset="100%" stop-color="#1A1208"/>
     </linearGradient>
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1F6FEB"/>
-      <stop offset="50%" stop-color="#D4AF37"/>
-      <stop offset="100%" stop-color="#FF9F1C"/>
-    </linearGradient>
   </defs>
-
-  <rect width="1000" height="640" rx="22" fill="url(#bg)"/>
-  <rect x="2" y="2" width="996" height="636" rx="20" fill="none" stroke="url(#border)" stroke-width="2.5"/>
-
-  <text x="500" y="48" text-anchor="middle" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">About</text>
-
-  <text x="56" y="95" fill="#FFF8E7" font-family="Segoe UI, Arial, sans-serif" font-size="16">Hi — I'm Arjune, an IT student learning full-stack development through school and personal projects.</text>
-
-  <text x="56" y="140" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">I don't pretend to know everything. What I can say honestly is this: I care about writing code I</text>
-  <text x="56" y="162" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">understand, asking better questions, and finishing what I start. I'm quiet by nature — I listen first,</text>
-  <text x="56" y="184" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">then I build. I'm curious about how systems work, honest about my gaps, and willing to put in the</text>
-  <text x="56" y="206" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">work even when progress feels slow.</text>
-
-  <text x="56" y="246" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">I'm still early in my journey, and I'm grateful for every chance to learn, contribute, and grow with a team.</text>
-
-  <rect x="56" y="275" width="888" height="68" rx="12" fill="#0B0614" stroke="#D4AF37" stroke-opacity="0.4"/>
-  <text x="76" y="305" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-style="italic">"I don't need to be the loudest person in the room. I just want my work to be</text>
-  <text x="76" y="327" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-style="italic">honest, clear, and dependable."</text>
-
-  <text x="56" y="390" fill="#D4AF37" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">What I'm focused on</text>
-
-  <text x="66" y="430" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">• Building with Python, Django, React, and PostgreSQL</text>
-  <text x="66" y="462" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">• Shipping projects I can explain from idea to deployment</text>
-  <text x="66" y="494" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">• Learning TypeScript, Next.js, Supabase, and deployment basics</text>
-  <text x="66" y="526" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15">• Getting better at Git, REST APIs, and clean UI with Tailwind CSS</text>
-
-  <text x="500" y="590" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="13">Quiet Steps. Steady Growth.</text>
+  <rect x="8" y="8" width="964" height="624" rx="24" fill="url(#fill)" stroke="url(#border)" stroke-width="3"/>
+  <text x="490" y="58" text-anchor="middle" fill="#D4AF37" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">About</text>
+  <text x="64" y="112" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Hi — I'm Arjune, a BS Information Technology student at STI College Ortigas-Cainta,</text>
+  <text x="64" y="138" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">class of 2027. I learn full-stack development through school, client work, and personal projects.</text>
+  <text x="64" y="180" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">I care about writing code I understand, asking better questions, and finishing what I start.</text>
+  <text x="64" y="206" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">I'm quiet by nature — I listen first, then I build. I'm honest about what I'm still learning,</text>
+  <text x="64" y="232" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">and I'm looking for an internship where I can contribute to real features with a team.</text>
+  <rect x="64" y="262" width="852" height="78" rx="14" fill="#0B0614" stroke="#D4AF37" stroke-opacity="0.55"/>
+  <text x="88" y="294" fill="#E6EDF3" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">"I don't need to be the loudest person in the room. I just want my work to be</text>
+  <text x="88" y="318" fill="#E6EDF3" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">honest, clear, and dependable."</text>
+  <text x="64" y="388" fill="#D4AF37" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">What I'm focused on</text>
+  <text x="64" y="424" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Comfortable with HTML, CSS, JavaScript, React, Tailwind CSS, and Git</text>
+  <text x="64" y="452" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Shipping clinic, church, and personal apps I can explain from idea to deployment</text>
+  <text x="64" y="480" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Learning TypeScript, Next.js, Astro, Python, Django, PostgreSQL, and Supabase</text>
+  <text x="64" y="508" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">•  Getting stronger at REST APIs, role-based access, and deployment on Vercel and Render</text>
+  <text x="490" y="580" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Quiet steps. Steady growth.</text>
 </svg>
