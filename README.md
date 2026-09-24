@@ -18,11 +18,19 @@
 
 ---
 
-### About
+### About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/juneabayabay/juneabayabay/main/assets/about-card.svg?v=3" width="100%" alt="About Arjune" />
-</div>
+I'm Arjune, an IT student in Cainta, Rizal. I expect to graduate in 2027.
+
+| | |
+| --- | --- |
+| **Studying** | BS Information Technology, STI College Ortigas-Cainta |
+| **Work** | Clinic system for Barnabas Dental. Public site and staff portal for Cainta Baptist Church. Personal Bible reading app. |
+| **Tools I use** | JavaScript, React, Tailwind |
+| **Learning** | TypeScript, Next.js, Python, Django |
+| **Looking for** | A software engineering or web development internship |
+| **Offline** | Reading, writing, and journaling |
+| **Links** | [Portfolio](https://arjune.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arjune-abay-abay-470138421/) |
 
 ---
 
