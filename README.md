@@ -59,12 +59,6 @@ I'm Arjune, an IT student in Cainta, Rizal. I expect to graduate in 2027.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,python,django,nodejs,express,java,mysql,postgres,supabase,git,postman,vercel" alt="Skills" />
-  <p>
-    <strong>Comfortable</strong> · HTML · CSS · JavaScript · React · Tailwind CSS · Git<br/>
-    <strong>Learning</strong> · TypeScript · Next.js · Astro · Python · Django · PostgreSQL · Supabase<br/>
-    <strong>Familiar</strong> · Java · Node.js · Express · MySQL · Postman
-  </p>
-  <p>Current focus · React · Next.js · TypeScript · Astro · Django · PostgreSQL · Python · Git</p>
 </div>
 
 ---
